@@ -1,4 +1,4 @@
-# RestAssured_ModularFramework
+# RestAssured_Framework
 
 
 Created framework based on modules to be used in application
